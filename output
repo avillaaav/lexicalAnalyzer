@@ -1,0 +1,12 @@
+TOKEN	----	LEXEME
+______________________
+keyword     	while
+separator     	(
+identifier     	t
+operator     	<
+identifier     	lower
+separator     	)
+identifier     	r
+operator     	=
+real     	28.00
+separator     	;
